@@ -1,3 +1,5 @@
 # XML_wikitionary_extractor
 
-Parse XML file using an inerface in java
+Using Object Oriented Programming, parsed XML Wikitionary file in Java.
+
+
